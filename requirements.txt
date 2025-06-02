@@ -1,1 +1,7 @@
+selenium
+undetected-chromedriver
+selenium-stealth
+pyautogui
 requests
+pypiwin32
+python-telegram-bot
